@@ -3,8 +3,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hgseo16.hgseo16)
 
 <!-- About Me🏻‍-->
-#### Currently:
-+ Software Engineer at [Zzan](https://www.zzan.io/) 👨🏻‍💻
+#### About Me:
 + BS in Computer Science & Minor in Economics at [Emory University](https://www.emory.edu/home/index.html) 📖
 + Dedicated and passionate coder 🔥
 
