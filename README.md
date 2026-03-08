@@ -7,8 +7,7 @@
 + BS in Computer Science & Minor in Economics at [Emory University](https://www.emory.edu/home/index.html) 📖
 + Dedicated and passionate coder 🔥
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinseo16&show_icons=true)
-
+![Kevin's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevinseo16&show_icons=true)
 <!-- Favorite Tech Stacks -->
 <h2>🛠️ Favorite Tech Stacks 🛠️</h2>
 
